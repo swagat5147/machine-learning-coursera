@@ -1,2 +1,2 @@
 # machine-learning-coursera
-Solutions of the assignments
+Solution for the assignments of the course
